@@ -1,7 +1,7 @@
 {{--  @extends('layout.main')
 @section("container")   
     <h1>ANJING</h1>
-    @endsection  --}}
+    @endsection tes --}}
 
     <!doctype html>
 <html lang="en">
